@@ -32,4 +32,5 @@ We're relying on you, the community, to port your devices for the full Kali NetH
 **A** - A list of supported devices and chipsets is on the wiki https://github.com/offensive-security/kali-nethunter/wiki/Wireless-Cards
 
 Fri Jan  15 02:09:40 EST 2016
+##Sorry for the late additions. This fork is no longer supported
 
